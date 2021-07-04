@@ -1,0 +1,28 @@
+.a{
+    background-image: url(pexels-mihis-alex-21014.jpg);
+    background-repeat: no-repeat;
+    background-size: 1380px 720px;
+}
+
+.p{
+    color:blueviolet;
+    background-color: rgba(250, 235, 215, 0.801);  
+    width: 200px;
+    border: 5px solid greenyellow;
+    padding: 50px;
+    margin-left: 40%;
+    
+}
+
+.c{
+    height: 300px;
+    width: 600px;
+    margin-left: 3.5%;
+}
+
+div p{
+    display: inline;
+    background-color: honeydew;
+    margin: 17%;
+}
+
